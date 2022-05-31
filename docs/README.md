@@ -7,11 +7,16 @@
 Quantity of Books written:
 
 | Id  | name_of_author| books_written |
-| --- | ------------- | ------------- |
+|:---:| :-----------: | :-----------: |
 |  0  | john          |       1       |
 |  1  | Alexis        |       3       |
 
-| Id  | name_of_author| books_written |
-| --- | ------------- | ------------- |
-|  0  | john          |       1       |
-|  1  | Alexis        |       3       |
+
+List of Stores with discount
+
+| Id  | stores        | has_discount  |
+|:---:| :-----------: | :-----------: |
+|  0  | book_store_1  |       1       |
+|  1  | book_store_2  |       0       |
+
+
