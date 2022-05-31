@@ -20,3 +20,11 @@ List of Stores with discount
 |  1  | book_store_2  |       0       |
 
 
+List of Sales per author
+
+| Id  | Author        | qtd_of_sales  |
+|:---:| :-----------: | :-----------: |
+|  0  | john          |       11      |
+|  1  | Alexis        |       31      |
+
+
