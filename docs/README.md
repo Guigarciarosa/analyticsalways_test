@@ -1,8 +1,8 @@
 # analyticsalways_test
  
  # External links
- api_link = "https://reqres.in/api/users?page=2"
- posts database link = https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql
+ - api_link = "https://reqres.in/api/users?page=2"
+ - posts database link = https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql
  
 # objectives
 - Restore pubs Database
