@@ -35,7 +35,7 @@ List of Sales per author
 
 - Connect with a API inside reqres and return the following informations:
 - list of users inside the api file
-- Exract a csv with all information
+- Extract a csv with all information
 - consult a existin user id inside the api.
 
 
